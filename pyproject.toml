@@ -1,0 +1,9 @@
+[project]
+name = "esl-recommendersystems"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "recommenders>=1.2.1",
+]
